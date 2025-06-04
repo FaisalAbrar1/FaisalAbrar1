@@ -9,7 +9,7 @@ Git & GitHub, Vercel for deployment
 Here are a few projects I've been working on:
 
 🔗 PROJECTS
-[PROJECTS]{https://vercel.com/faisal-abrars-projects}
+{https://vercel.com/faisal-abrars-projects}
 
 🌱 Currently Learning
 React Hooks & Context API
