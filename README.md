@@ -16,7 +16,7 @@ I'm a **Frontend Developer** passionate about building clean, modern, and respon
 
 Here are a few projects I've been working on:
 
-🔗 **Live Projects:** [vercel.com/faisal-abrars-projects](https://vercel.com/faisal-abrars-projects)
+🔗 **Live Projects:** [https://10-to-do-context-local-git-main-faisal-abrars-projects.vercel.app)
 
 ---
 
