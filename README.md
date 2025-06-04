@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Faisal 👋
+I'm a frontend developer passionate about building clean, modern, and responsive web apps. I enjoy learning by building real-world projects.
 
-<!--
-**FaisalAbrar1/FaisalAbrar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack
+HTML, CSS, JavaScript
+React (currently learning more deeply)
+Git & GitHub, Vercel for deployment
+🚀 Projects
+Here are a few projects I've been working on:
 
-Here are some ideas to get you started:
+🔗 PROJECTS
+[PROJECTS]{https://vercel.com/faisal-abrars-projects}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+React Hooks & Context API
+Component structuring and state management
+JavaScript ES6+, APIs, and UI design principles
+📫 Let's Connect
+💼 LinkedIn: [https://www.linkedin.com/in/faisal-abrar-479b43205/]
+📧 Email: faisu11111@gmail.com
+☎ Phone: ‪+91-7889325318
+🐱 GitHub: github.com/faisalabrar1
+Thanks for visiting my profile!
+
+faizanfarooq
+Welcome to my GitHub profile!
